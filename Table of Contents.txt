@@ -1,0 +1,47 @@
+Table of Contents
+1. Introduction
+
+2. Literature Review
+2.1 Information Security
+2.2 Chatbot Technologies
+2.3 Flask Framework
+2.4 CSRF Protection
+
+3. Methodology
+3.1 Development Methodology
+3.2 Tools and Technologies Used
+
+4. Requirements Analysis
+4.1 Functional Requirements
+4.2 Security Requirements
+4.3 Performance Requirements
+
+
+5. System Architecture
+5.1 High-level Architecture
+5.2 Data Flow Diagrams
+5.3 Use Case Diagrams
+
+6. Implementation
+6.1 Flask Application Setup
+6.2 MongoDB Integration
+6.3 Chatbot Algorithm
+6.4 CSRF Protection Techniques
+6.5 Admin Login and Secure Mechanisms
+
+
+7. Justification for Using Existing Technologies
+7.1 Why DiagFlow or GPT-3?
+7.2 Dataset Integration and Training
+
+
+8. Security Analysis
+8.1 Secure Cookies
+8.2 Session Timeouts
+8.3 Threat Modeling
+8.4 Vulnerability Assessment
+
+9. Testing
+9.1 Unit Testing
+9.2 Security Testing
+9.3 User Acceptance Testing
