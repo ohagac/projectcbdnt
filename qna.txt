@@ -1,0 +1,44 @@
+My laptop is not turning on what do I do?
+Answer: If it's plugged into the charger, check for a light indicator beside the charging port.
+
+My account is locked out, what do I do?
+Answer: If you are locked out, contact the admin for unlocking the account.
+
+How do I know that my laptop is updated to the latest version?
+Answer: Go to Settings > Update and make sure to complete all Windows updates.
+
+Can I install my own software?
+Answer: Yes, however, for programs that need admin privileges, contact IT admin for verification.
+
+Can I bring my own laptop to use at work?
+Answer: Yes, but you won't be able to access the company's local drive or internet, and you'll miss the latest security patches.
+
+Can I connect my tablet or phone to the company's network?
+Answer: It is not allowed as we do not claim responsibility should there be a breach in data or information.
+
+My email containing sensitive information does not send what do I do?
+Answer: Contact IT admin for clarification for this matter.
+
+How do I connect to the wireless projector?
+Answer: Pressing 'Windows + K' would let you project it.
+
+How do I know if this email is legitimate?
+Answer: Check if it's from the official company address; if it's external, exercise caution and do not click on any attachments unless clear of viruses.
+
+My printer is not working, what should I do?
+Answer: Check to see if the printer is connected and powered on. If issues persist, contact the IT department.
+
+My screen keeps freezing, how do I fix it?
+Answer: Try restarting your computer. If the issue continues, report it to IT support.
+
+How do I set up a VPN connection?
+Answer: Refer to the company's VPN setup guide or contact the IT department for configuration steps.
+
+How do I reset my password?
+Answer: Use the 'Forgot Password' option on the login screen, or contact the IT department for a reset.
+
+I can't open a specific file, what should I do?
+Answer: Ensure you have the appropriate software to open the file type. If you do and still can't open it, consult the IT department.
+
+I'm experiencing slow internet, what should I do?
+Answer: Try restarting your network connection. If the issue persists, contact the IT department for further troubleshooting.
